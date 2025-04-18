@@ -14,9 +14,10 @@ salary-prediction-ml-final/
 │   ├── Salary_dataset.csv
 │   └── preprocessed_salary_data.csv
 ├── reports/
-│   ├── Solorzano_Final_Report.docx
-│   ├── DS_WED_21229_FINALEXAM_SolorzanoNatalia_ITAI2377.pdf
-│   └── comparison_table.csv
+├── DS_WED_21229_FINALEXAM_SolorzanoNatalia_ITAI2377.html
+├── DS_WED_21229_FINALEXAM_SolorzanoNatalia_ITAI2377.pdf
+├── comparison_table.csv
+├── .gitkeep
 ├── presentation/
 │   └── DS_WED_21229_FinalExam_SolorzanoNatalia_ITAI2377.pptx
 ├── requirements.txt
