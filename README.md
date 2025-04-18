@@ -8,15 +8,19 @@ This project explores how machine learning regression models can predict a perso
 
 ```
 salary-prediction-ml-final/
-├── data/
-│   └── Salary_dataset.csv
 ├── notebooks/
 │   └── DS_WED_21229_FINALEXAM_SolorzanoNatalia_ITAI2377.ipynb
+├── data/
+│   ├── Salary_dataset.csv
+│   └── preprocessed_salary_data.csv
 ├── reports/
+│   ├── DS_WED_21229_FINALEXAM_SolorzanoNatalia_ITAI2377.html
 │   ├── DS_WED_21229_FINALEXAM_SolorzanoNatalia_ITAI2377.pdf
 │   └── comparison_table.csv
+├── presentation/
+│   └── DS_WED_21229_FinalExam_SolorzanoNatalia_ITAI2377.pptx
 ├── requirements.txt
-└── README.md
+├── README.md
 
 ```
 
